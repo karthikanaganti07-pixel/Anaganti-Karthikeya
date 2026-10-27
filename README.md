@@ -19,10 +19,10 @@ https://node-express-lab1.onrender.com
 
 ## Screenshots
 
-![Home page](./screenshots/home.jpeg)
+![Home page](./lab-01/screenshots/home.jpeg)
 
-![About page](./screenshots/about.jpeg)
+![About page](./lab-01/screenshots/about.jpeg)
 
-![Time page](./screenshots/time.jpeg)
+![Time page](./lab-01/screenshots/time.jpeg)
 
-![404 page](./screenshots/404.jpeg)
+![404 page](./lab-01/screenshots/404.jpeg)
