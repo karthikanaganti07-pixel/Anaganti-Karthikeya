@@ -13,3 +13,6 @@ After that, I created another server using Express.js. The home page displays a 
 I tested the pages in the browser and checked their status codes using Developer Tools. The home, about and time pages returned 200 OK, while the unknown page returned 404 Not Found.
 
 The project uses Node.js, Express.js and JavaScript. The source files are available in this repository.
+
+## Live URL
+https://node-express-lab1.onrender.com
