@@ -6,7 +6,8 @@
   
 "scripts": {
   "start": "node app.js",
-  "dev": "nodemon app.js"
+  "dev": "nodemon app.js",
+  "build": "npm rebuild sqlite3 --build-from-source"
 },
 
   "keywords": [],
